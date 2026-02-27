@@ -50,11 +50,11 @@ Here are some screenshots of the Personal Finance Tracker application:
 *Description:* A simple page with a welcoming message and links/buttons to login and register.
 
 ### Login Page
-![Login Page](src/assests/Login-page.png)  
+![Login Page](src/assests/Sign-In.png)  
 *Description:* A login form centered on the page, styled using Tailwind CSS, with fields for email and password, and a submit button.
 
 ### Register Page
-![Register Page](src/assests/register-page.png)  
+![Register Page](src/assests/Sign-Up.png)  
 *Description:* A registration form similar to the login page, with fields for name, email, password, and confirm password.
 
 ### Dashboard Page
