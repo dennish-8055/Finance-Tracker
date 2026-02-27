@@ -46,7 +46,7 @@ The Personal Finance Tracker is a simple and intuitive application designed to h
 Here are some screenshots of the Personal Finance Tracker application:
 
 ### Landing Page
-![Landing Page](src/assests/Landing-page.png)  
+![Landing Page](src/assests/Landing-Page.png)  
 *Description:* A simple page with a welcoming message and links/buttons to login and register.
 
 ### Login Page
@@ -58,7 +58,7 @@ Here are some screenshots of the Personal Finance Tracker application:
 *Description:* A registration form similar to the login page, with fields for name, email, password, and confirm password.
 
 ### Dashboard Page
-![Dashboard Page](src/assests/MyDashboard.png)  
+![Dashboard Page](src/assests/My Dashboard.png)  
 *Description:* A page showing overall financial statistics: total income, total expenditure, total savings, displayed in cards or a chart.
 
 ### Calendar Page
@@ -66,7 +66,7 @@ Here are some screenshots of the Personal Finance Tracker application:
 *Description:* A calendar displaying expenses on each day, using the React Full Calendar library.
 
 ### My Expenses Page
-![My Expenses Page](src/assests/MyExpenses.png)  
+![My Expenses Page](src/assests/My Expenses.png)  
 *Description:* A list of expense cards, each showing details like date, amount, and category. A navbar at the top with a Create New Expense option ( "+" button).
 
 ## Contributing
