@@ -58,7 +58,7 @@ Here are some screenshots of the Personal Finance Tracker application:
 *Description:* A registration form similar to the login page, with fields for name, email, password, and confirm password.
 
 ### Dashboard Page
-![Dashboard Page](src/assests/My Dashboard.png)  
+![Dashboard Page](src/assests/My-Dashboard.png)  
 *Description:* A page showing overall financial statistics: total income, total expenditure, total savings, displayed in cards or a chart.
 
 ### Calendar Page
