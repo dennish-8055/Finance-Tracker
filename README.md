@@ -91,3 +91,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 - **React Full Calendar** for the calendar component.
 - **MongoDB** and **Mongoose** for the database management.
 - **Express.js** for the backend framework.
+
+## 👨‍💻 Author
+
+**Dennish Yadav**  
+GitHub: https://github.com/dennish-8055
